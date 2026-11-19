@@ -47,23 +47,6 @@ I build backend-heavy full-stack applications and explore agentic AI systems.
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 InfraPilot
-*Python · FastAPI · LangGraph · React · Redis Streams · Docker*
-
-- Built an explainable agentic NOC prototype for automated network, application and system diagnostics using structured evidence and multi-agent reasoning
-- Developed an event-driven pipeline with FastAPI, Redis Streams and LangGraph agents for evidence analysis, validation and root-cause diagnosis
-- Containerized the multi-service platform with Docker Compose and added deterministic fallbacks for reliable diagnosis when the LLM is unavailable
-
-### 📝 BlogApp
-*Java · Spring Boot · Spring Security · JWT · React · MySQL · REST APIs*
-
-- Engineered a full-stack blogging platform with stateless JWT authentication and Spring Security, with role-based access control on protected REST endpoints
-- Designed a normalized MySQL schema and integrated Spring Data JPA/JDBC for reliable relational data persistence and application-level data access
-
----
-
 ## 🏆 Certifications & Achievements
 
 - 🎓 **Oracle Certified Professional: Java SE Developer** (Oracle University, Dec 2025)
@@ -76,16 +59,6 @@ REST APIs · JWT Authentication · Agentic Workflows · System Observability · 
 ## 🤝 Leadership
 
 **Event Organizer / Administrator, College Events & Student Activities** (2024 – Present): coordinated logistics, cross-team communication and administration for campus events and workshops.
-
----
-
-## 📈 GitHub Stats
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
